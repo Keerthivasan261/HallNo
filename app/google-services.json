@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157359430141",
+    "project_id": "examhallno",
+    "storage_bucket": "examhallno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157359430141:android:be954758af1735dacae194",
+        "android_client_info": {
+          "package_name": "com.example.hallno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157359430141-snrca2bsf32ukdscutiea2un6em9rmaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFa3RKuFjI8tKwHV_d1sYrUeDfRvbCQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157359430141-snrca2bsf32ukdscutiea2un6em9rmaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
